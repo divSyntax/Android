@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.android.com/apk/res/android" location="$USER_HOME$/Desktop/New folder (2)/UmmatiApp" />
     <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.AndroidStudio3.0/system/extResources/2889bd79_svg11.dtd" />
+    <ignored-resource url="http://schemas.android.com/apk/res/android" />
   </component>
 </application>
